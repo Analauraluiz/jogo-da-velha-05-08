@@ -6,3 +6,27 @@
     padding: 50px;
     background-color: rgb(0, 0, 0,);
 }
+.quadrado{
+    width: 200px;
+    height: 200px;
+    font-size: 100px;
+    text-align: center;
+    background-color: rgb(78, 31, 139);
+    color: black;
+    border-radius: 10px;
+}
+.jogo{
+   margin: 0 auto;
+   border-radius: 10px;
+}
+.titulo{
+    text-align: center;
+}
+.botao{
+    background-color: rgb(139, 31, 134);
+    color: white;
+    margin-top: 10px;
+    padding: 5px;
+    width: 100px;
+    font-size: 20px;
+}
